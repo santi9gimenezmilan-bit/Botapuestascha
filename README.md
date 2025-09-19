@@ -1,6 +1,6 @@
 # Bot de Apuestas con Valor (+EV)
 
-Este bot analiza cuotas de **fútbol, NFL y NBA** usando [The Odds API](https://the-odds-api.com/)  
+Este bott analiza cuotas de **fútbol, NFL y NBA** usando [The Odds API](https://the-odds-api.com/)  
 y envía **alertas de apuestas con valor esperado positivo (+EV)** a Telegram.
 
 ## Configuración
